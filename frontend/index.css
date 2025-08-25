@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+button {
+  transition: all 0.2s ease-in-out;
+}
+
+button:hover {
+  filter: brightness(1.1);
+  -webkit-filter: brightness(1.1);
+}
+
+input, textarea {
+  transition: all 0.2s;
+}
+
+input:focus, textarea:focus {
+  box-shadow: 0 0 10px rgba(255, 105, 180, 0.5);
+  -webkit-box-shadow: 0 0 10px rgba(255, 105, 180, 0.5);
+}
