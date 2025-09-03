@@ -1,4 +1,4 @@
-# 🧠 Crypto Quiz DApp
+# 🧠 Quizzler
 
 A decentralized multiple-choice quiz application built on the **Aptos ecosystem**. Players can answer quizzes, compete on a **leaderboard**, and earn **NFT/Token rewards** for completing question sets correctly.
 
